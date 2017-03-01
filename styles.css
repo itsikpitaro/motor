@@ -1,0 +1,33 @@
+*{margin: 0;padding: 0;}
+body{
+	background-color: black;
+	color: white;
+}
+#wrp{
+	width: 100%;	
+}
+header{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+header #logo{
+	width: 162px;
+	height: 56px;	
+}
+.color-white{
+	color: white;
+}
+
+#wazeLink{
+/*
+	background-image: url('images/waze.png') no-repeat;
+	height: 23px;
+	width: 107px;
+*/
+}
+#contentBottom{
+	display: flex;
+	justify-content: center;
+}
